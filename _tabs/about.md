@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+뿌리깊은 나무는 바람에 아니 움직일세, 꽃 좋고 열매 많나니.

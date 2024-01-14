@@ -19,7 +19,7 @@ title: Katpyon's devlog # the main title
 tagline: The fundamental of Programing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  FUNDAMENTAL
+  The fundamental of Programing
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: "https://katpyon.github.io"
 github:
   username: katpyon # change to your github username
 
-# twitter:
-#   username: # change to your twitter username
+twitter:
+  username: katpyeon # change to your twitter username
 
 social:
   # Change to your full name.
